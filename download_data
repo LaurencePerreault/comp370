@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir -p ~/Downloads
+curl -L -o ~/Downloads/my-little-pony-transcript.zip \
+  https://www.kaggle.com/api/v1/datasets/download/liury123/my-little-pony-transcript
